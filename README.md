@@ -43,6 +43,7 @@ be adjusted any which way, or even reversed.
 During this, the tanks cannot be moved and no longer interact with each other.  
 Holding shift using any of the following keys adds negative values instead of positive ones, with the exception of the resolution where 
 only the rate of change is affected.  
+- G = regenerate random terrain
 - Up = increase terrain resolution
 - Down = decrease terrain resolution
 - Left = move terrain function start point right (or left with shift)

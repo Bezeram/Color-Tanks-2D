@@ -9,8 +9,8 @@ Install [Cmake](https://cmake.org/download/)
 Install [Visual Studio](https://visualstudio.microsoft.com/downloads/)
 
 1. Clone or download the zip
-2. Run the batch file in the build/ folder
-3. Open the .sln file and press F5 to run or press the Local Windows Debugger Button
+2. Run the batch file in the scripts/ folder
+3. Open the .sln file in the build directory in the root and press F5 to run or press the Local Windows Debugger Button
 
 # Rules
 If a tank takes 3 hits or falls off the map, it gets destroyed.
